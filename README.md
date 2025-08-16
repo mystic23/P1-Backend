@@ -15,19 +15,20 @@
 
 ## Puntos
 
-1. Implemente una funcion que reciba los datos de estudiantes y retorne la cantidad de estudiantes en matricula condicional (promedio por debajo de 3.3).
+1. Implemente una funcion que reciba los datos de estudiantes y retorne la cantidad de estudiantes en matricula condicional (promedio por debajo de 3.3).[Listo]
 
-2. Implemente una funcion que reciba los datos de estudiantes y retorne una lista con el nombre completo de cada estudiante.
+2. Implemente una funcion que reciba los datos de estudiantes y retorne una lista con el nombre completo de cada estudiante.[Listo]
+
 
 3. Implemente una funcion que reciba los datos de estudiantes y retorne una lista con los \_id de cada estudiante unicamente, tras ser ordenados ascendentemente por altura.
 
-4. Implemente una funcion que reciba una lista de numeros y retorne el promedio de la lista.
+4. Implemente una funcion que reciba una lista de numeros y retorne el promedio de la lista.[Listo]
 
-5. Implemente una funcion que reciba una palabra y retorne si la palabra es palindroma o no.
+5. Implemente una funcion que reciba una palabra y retorne si la palabra es palindroma o no. [Listo]
 
 > Una palabra palindroma es aquella que es igual de atras para adelante y de adelante para atras.
 
-6. Implemente una funcion que reciba una palabra y la invierta.
+6. Implemente una funcion que reciba una palabra y la invierta.  [Listo]
 
 7. Implemente una funcion que reciba una lista de objetos cualquiera y el nombre de un campo y retorne la lista de objetos ordenada ascendemente segun el valor del campo.
 
